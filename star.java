@@ -1,3 +1,4 @@
+package mypack;
 class Star_printer{
 void print_star(){
 System.out.println("*");
